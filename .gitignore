@@ -1,2 +1,5 @@
-/node_modukes
+**/node_modules/
+**/bin/
+**/obj/
+backend/publish/
 .env
